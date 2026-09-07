@@ -1,0 +1,78 @@
+Pirate Kit — Quaternius
+=======================
+
+
+DO NOT USE THESE FILES IN YOUR OWN PROJECT
+------------------------------------------
+
+This folder exists **only** so that the Babylon.js samples and tools that were
+built against this kit have somewhere to load it from. It is not a distribution
+channel for the kit, and it is not the copy you should be building on.
+
+If you want these models, get them from the author:
+
+    https://quaternius.com/packs/piratekit.html
+
+That matters for two reasons, and the second one is the important one:
+
+  1. The author's copy is the complete pack — .blend sources, FBX, OBJ, the
+     Unity / Unreal / Godot projects with the custom shaders already wired up.
+     Only the glTF variant is here, because that is the only variant the
+     samples read.
+
+  2. **Part of what is here is PRO-tier content.** The SOURCE version of the
+     pack is obtained through Quaternius' $10/month subscription, and it
+     contains models that the free download does not. Those models sit
+     alongside the free ones in this folder and are not marked apart. Copying
+     this folder wholesale into a personal project therefore takes paid content
+     that was paid for once, for this use.
+
+Support the author instead — a subscription is what keeps the kits coming:
+
+    https://www.patreon.com/quaternius
+    https://discord.gg/vJqnRUYRfT
+
+
+Licence
+-------
+
+The pack is released under **CC0 1.0 Universal (Public Domain Dedication)**:
+
+    https://creativecommons.org/publicdomain/zero/1.0/
+
+CC0 is what makes hosting the kit here legal, and it does not oblige you to ask
+permission or to attribute. The paragraph above is not a legal restriction on
+top of CC0 — it is a request. Attribution is likewise not required, but is
+deserved:
+
+    Models by @Quaternius — https://www.patreon.com/quaternius
+
+
+What is in this folder
+----------------------
+
+The glTF export of the pack — 72 models, one .gltf each, with the shared
+texture atlas at the kit root:
+
+    Characters/     the pirates themselves
+    Enemies/        the tentacle
+    Environments/   islands, cliffs, palms, docks, houses, rocks, the two ships
+    Props/          barrels, crates, chests, cannons, bottles, coins, fish
+    UI/             flat icons meant to be drawn as sprites
+    Weapons/        cutlasses, pistols, axes, and one lute
+    Atlas_Pirate.png    the single shared texture atlas
+
+**The folders are ours, not the author's.** The pack ships as a single `glTF/`
+folder; the models were dispatched into categories here because the tools that
+read this library take their categories from the folder names, and one tab
+called "glTF" holding all 72 models is no use. The filenames are untouched, so
+each model is still recognisable in the pack you download from the author.
+
+The models reference the atlas by **bare filename**, as if it sat beside the
+.gltf, so a loader has to know the convention: an image named at the kit root
+is resolved from the kit root, not from the model's own folder. glTF forbids a
+URI from leaving its directory, so `../Atlas_Pirate.png` is not an option and
+the rule has to live in the loader.
+
+The pack ships no licence file of its own; the CC0 dedication above is the
+one stated on the pack's page.

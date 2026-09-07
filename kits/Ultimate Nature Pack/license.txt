@@ -1,0 +1,91 @@
+Ultimate Nature Pack — Quaternius
+=================================
+
+
+DO NOT USE THESE FILES IN YOUR OWN PROJECT
+------------------------------------------
+
+This folder exists **only** so that the Babylon.js samples and tools that were
+built against this kit have somewhere to load it from. It is not a distribution
+channel for the kit, and it is not the copy you should be building on.
+
+If you want these models, get them from the author:
+
+    https://quaternius.com/packs/ultimatenature.html
+
+That matters for two reasons, and the second one is the important one:
+
+  1. The author's copy is the complete pack — .blend sources, glTF, OBJ, the
+     Unity / Unreal / Godot projects with the custom shaders already wired up.
+     Only the FBX variant is here, because that is the only variant the samples
+     read.
+
+  2. **Part of what is here is PRO-tier content.** The SOURCE version of the
+     pack is obtained through Quaternius' $10/month subscription, and it
+     contains models that the free download does not. Those models sit
+     alongside the free ones in this folder and are not marked apart. Copying
+     this folder wholesale into a personal project therefore takes paid content
+     that was paid for once, for this use.
+
+Support the author instead — a subscription is what keeps the kits coming:
+
+    https://www.patreon.com/quaternius
+    https://discord.gg/vJqnRUYRfT
+
+
+Licence
+-------
+
+The pack is released under **CC0 1.0 Universal (Public Domain Dedication)**:
+
+    https://creativecommons.org/publicdomain/zero/1.0/
+
+CC0 is what makes hosting the kit here legal, and it does not oblige you to ask
+permission or to attribute. The paragraph above is not a legal restriction on
+top of CC0 — it is a request. Attribution is likewise not required, but is
+deserved:
+
+    Models by @Quaternius — https://www.patreon.com/quaternius
+
+
+What is in this folder
+----------------------
+
+The FBX export of the pack — 150 models, one .fbx each, no texture files:
+
+    Nature/     BirchTree_*, CommonTree_*, PineTree_*, PalmTree_*, Willow_*
+                Bush_*, Plant_*, Grass_*, Flowers_*, Corn_*, Wheat_*, Lilypad_*
+                Cactus_*, CactusFlowers_*
+                Rock_*, TreeStump_*, WoodLog_*
+
+**The folder is ours, not the author's.** The pack ships as a single `FBX/`
+folder; the tools that read this library take their categories from the folder
+names, and a tab called "FBX" says nothing about what is in it. One category
+was enough for this pack — it is 150 pieces of scenery and splitting it by
+species would be a strip of tabs holding four models each. The filenames are
+untouched, so each model is still recognisable in the pack you download from
+the author.
+
+The models carry **no textures** — they are vertex-coloured — so there is
+nothing here beside the .fbx files.
+
+**These files are modelled in centimetres.** Each one declares
+`UnitScaleFactor = 1.0` in its `GlobalSettings`, meaning 1 unit = 1 cm, so a
+2.5 m tree measures 250 units. Loaders that ignore that value — Babylon.js's
+FBX plugin among them — bring the models in a hundred times too large.
+
+
+The pack's own licence file, reproduced verbatim
+------------------------------------------------
+
+------------------------------------------------------
+LowPoly Models by @Quaternius
+Consider supporting me on Patreon, even $1 helps me a lot!
+
+https://www.patreon.com/quaternius
+-------------------------------------------------------
+
+License:
+CC0 1.0 Universal (CC0 1.0) 
+Public Domain Dedication
+https://creativecommons.org/publicdomain/zero/1.0/

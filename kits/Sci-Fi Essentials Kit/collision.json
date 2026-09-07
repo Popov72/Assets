@@ -1,0 +1,9 @@
+{
+  "generator": "SciFiShip layout tool",
+  "schema": 1,
+  "savedAt": "2026-09-03T13:47:58.772Z",
+  "units": "metres",
+  "kit": "Sci-Fi Essentials Kit",
+  "note": "Collision authored in module-local editor space. Keys are relative to this kit root.",
+  "moduleShapes": {}
+}

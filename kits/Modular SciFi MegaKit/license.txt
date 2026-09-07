@@ -1,0 +1,94 @@
+Modular SciFi MegaKit — Quaternius
+==================================
+
+
+DO NOT USE THESE FILES IN YOUR OWN PROJECT
+------------------------------------------
+
+This folder exists **only** so that the Babylon.js samples and tools that were
+built against this kit have somewhere to load it from. It is not a distribution
+channel for the kit, and it is not the copy you should be building on.
+
+If you want these models, get them from the author:
+
+    https://quaternius.com/packs/modularscifimegakit.html
+
+That matters for two reasons, and the second one is the important one:
+
+  1. The author's copy is the complete pack — .blend sources, FBX, OBJ, the
+     Unity / Unreal / Godot projects with the custom shaders already wired up.
+     Only the glTF variant is here, because that is the only variant the
+     samples read.
+
+  2. **Part of what is here is PRO-tier content.** The SOURCE version of the
+     pack is obtained through Quaternius' $10/month subscription, and it
+     contains models that the free download does not. Those models are mixed in
+     with the free ones in these folders and are not marked apart. Copying this
+     folder wholesale into a personal project therefore takes paid content that
+     was paid for once, for this use.
+
+Support the author instead — a subscription is what keeps the kits coming:
+
+    https://www.patreon.com/quaternius
+    https://discord.gg/vJqnRUYRfT
+
+
+Licence
+-------
+
+The pack is released under **CC0 1.0 Universal (Public Domain Dedication)**:
+
+    https://creativecommons.org/publicdomain/zero/1.0/
+
+CC0 is what makes hosting the kit here legal, and it does not oblige you to ask
+permission or to attribute. The paragraph above is not a legal restriction on
+top of CC0 — it is a request. Attribution is likewise not required, but is
+deserved:
+
+    Models by @Quaternius — https://www.patreon.com/quaternius
+
+
+What is in this folder
+----------------------
+
+The glTF export of the pack, laid out as the author ships it:
+
+    Aliens/  Columns/  Decals/  Platforms/  Props/  Walls/
+        the modules, one .gltf + .bin per module
+    T_*.png
+        the ~17 shared texture atlases, at the kit root
+
+Every module references the atlases by **bare filename** (`T_Name.png`), as if
+they sat beside the .gltf, so a loader has to know the convention: an image
+named here at the kit root is resolved from the kit root, not from the module's
+own folder. glTF forbids a URI from leaving its directory, so `../T_Name.png`
+is not an option and the rule has to live in the loader.
+
+
+The pack's own licence file, reproduced verbatim
+------------------------------------------------
+
+Thanks for buying the Source version of the Modular SciFi MegaKit!
+All textures can be found inside the Blends folder.
+
+The SOURCE version of the Modular SciFi MegaKit, contains 
+all of the models and project files in Unity(URP), Unreal Engine and Godot projects
+with the custom shaders already setup.
+
+Versions used for the SOURCE version projects (anything above these work)
+ Godot_v4.3 | Unity (URP) 2022.3.4 | Unreal Engine 4.27.2
+-------------------------------------------------------
+License:
+CC0 1.0 Universal (CC0 1.0) 
+Public Domain Dedication
+https://creativecommons.org/publicdomain/zero/1.0/
+
+------------------------------------------------------
+Models by @Quaternius
+Consider supporting me on Patreon!
+
+https://www.patreon.com/quaternius
+
+-------------------------------------------------------
+Join the Discord Server:
+https://discord.gg/vJqnRUYRfT

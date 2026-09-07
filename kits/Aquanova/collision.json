@@ -1,0 +1,360 @@
+{
+  "generator": "SciFiShip layout tool",
+  "schema": 1,
+  "savedAt": "2026-09-03T13:29:24.119Z",
+  "units": "metres",
+  "kit": "Aquanova",
+  "note": "Collision authored in module-local editor space. Keys are relative to this kit root.",
+  "moduleShapes": {
+    "Walls/WallAstra_Straight_left_hole": [
+      {
+        "kind": "box",
+        "position": [
+          -7.613,
+          2.8534,
+          -10
+        ],
+        "rotation": [
+          23.5,
+          90,
+          0
+        ],
+        "scale": [
+          4,
+          0.35,
+          1
+        ]
+      },
+      {
+        "kind": "box",
+        "position": [
+          -7.984,
+          1.467,
+          -10
+        ],
+        "rotation": [
+          0,
+          0,
+          -10
+        ],
+        "scale": [
+          0.537,
+          3.2,
+          0.444
+        ]
+      },
+      {
+        "kind": "box",
+        "position": [
+          -7.8188,
+          1.477,
+          -10.74
+        ],
+        "rotation": [
+          0,
+          0,
+          -10
+        ],
+        "scale": [
+          0.35,
+          3.2,
+          2.53
+        ]
+      },
+      {
+        "kind": "box",
+        "position": [
+          -7.8756,
+          0.5357,
+          -8.7413
+        ],
+        "rotation": [
+          0,
+          0,
+          -10
+        ],
+        "scale": [
+          0.35,
+          1.42,
+          1.5
+        ]
+      },
+      {
+        "kind": "box",
+        "position": [
+          -7.6401,
+          1.9614,
+          -8.1634
+        ],
+        "rotation": [
+          0,
+          0,
+          -10
+        ],
+        "scale": [
+          0.35,
+          1.45,
+          0.34
+        ]
+      },
+      {
+        "kind": "box",
+        "position": [
+          -7.5318,
+          2.553,
+          -8.8858
+        ],
+        "rotation": [
+          0,
+          0,
+          -10
+        ],
+        "scale": [
+          0.35,
+          0.33,
+          1.23
+        ]
+      }
+    ],
+    "Walls/WallAstra_Straight-left-riveted": [
+      {
+        "kind": "box",
+        "position": [
+          2.387,
+          2.8537,
+          0
+        ],
+        "rotation": [
+          23.5,
+          90,
+          0
+        ],
+        "scale": [
+          4,
+          0.35,
+          1
+        ]
+      },
+      {
+        "kind": "box",
+        "position": [
+          2.016,
+          1.4673,
+          0
+        ],
+        "rotation": [
+          0,
+          0,
+          -10
+        ],
+        "scale": [
+          0.537,
+          3.2,
+          0.444
+        ]
+      },
+      {
+        "kind": "box",
+        "position": [
+          2.1812,
+          1.4773,
+          -0.74
+        ],
+        "rotation": [
+          0,
+          0,
+          -10
+        ],
+        "scale": [
+          0.35,
+          3.2,
+          2.53
+        ]
+      },
+      {
+        "kind": "box",
+        "position": [
+          2.1244,
+          0.536,
+          1.2587
+        ],
+        "rotation": [
+          0,
+          0,
+          -10
+        ],
+        "scale": [
+          0.35,
+          1.42,
+          1.5
+        ]
+      },
+      {
+        "kind": "box",
+        "position": [
+          2.3599,
+          1.9617,
+          1.8366
+        ],
+        "rotation": [
+          0,
+          0,
+          -10
+        ],
+        "scale": [
+          0.35,
+          1.45,
+          0.34
+        ]
+      },
+      {
+        "kind": "box",
+        "position": [
+          2.4682,
+          2.5533,
+          1.1142
+        ],
+        "rotation": [
+          0,
+          0,
+          -10
+        ],
+        "scale": [
+          0.35,
+          0.33,
+          1.23
+        ]
+      }
+    ],
+    "Walls/WallAstra_Straight-right-riveted": [
+      {
+        "kind": "box",
+        "position": [
+          2.387,
+          2.8174,
+          0
+        ],
+        "rotation": [
+          23.5,
+          90,
+          0
+        ],
+        "scale": [
+          4,
+          0.35,
+          1
+        ]
+      },
+      {
+        "kind": "box",
+        "position": [
+          2.016,
+          1.431,
+          0
+        ],
+        "rotation": [
+          0,
+          0,
+          -10
+        ],
+        "scale": [
+          0.537,
+          3.2,
+          0.444
+        ]
+      },
+      {
+        "kind": "box",
+        "position": [
+          2.1812,
+          1.441,
+          0.7801
+        ],
+        "rotation": [
+          0,
+          0,
+          -10
+        ],
+        "scale": [
+          0.35,
+          3.2,
+          2.53
+        ]
+      },
+      {
+        "kind": "box",
+        "position": [
+          2.1244,
+          0.4997,
+          -1.2403
+        ],
+        "rotation": [
+          0,
+          0,
+          -10
+        ],
+        "scale": [
+          0.35,
+          1.42,
+          1.5
+        ]
+      },
+      {
+        "kind": "box",
+        "position": [
+          2.3599,
+          1.9254,
+          -1.8218
+        ],
+        "rotation": [
+          0,
+          0,
+          -10
+        ],
+        "scale": [
+          0.35,
+          1.45,
+          0.34
+        ]
+      },
+      {
+        "kind": "box",
+        "position": [
+          2.4682,
+          2.517,
+          -1.0418
+        ],
+        "rotation": [
+          0,
+          0,
+          -10
+        ],
+        "scale": [
+          0.35,
+          0.33,
+          1.23
+        ]
+      }
+    ],
+    "Props/AreaBox": [
+      {
+        "kind": "box",
+        "position": [
+          0,
+          0.5,
+          0
+        ],
+        "rotation": [
+          0,
+          0,
+          0
+        ],
+        "scale": [
+          1,
+          1,
+          1
+        ]
+      }
+    ]
+  }
+}

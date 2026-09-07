@@ -1,0 +1,3912 @@
+{
+  "generator": "SciFiShip layout tool",
+  "schema": 1,
+  "savedAt": "2026-09-03T13:29:24.119Z",
+  "units": "metres",
+  "kit": "Modular SciFi MegaKit",
+  "note": "Collision authored in module-local editor space. Keys are relative to this kit root.",
+  "moduleShapes": {
+    "Platforms/Platform_Metal2": [
+      {
+        "kind": "box",
+        "position": [
+          0,
+          -0.25,
+          0
+        ],
+        "rotation": [
+          0,
+          0,
+          0
+        ],
+        "scale": [
+          4,
+          0.5,
+          4
+        ]
+      }
+    ],
+    "Platforms/Platform_DarkPlates": [
+      {
+        "kind": "box",
+        "position": [
+          0,
+          -0.25,
+          0
+        ],
+        "rotation": [
+          0,
+          0,
+          0
+        ],
+        "scale": [
+          4,
+          0.5,
+          4
+        ]
+      }
+    ],
+    "Walls/WallWideBand_Corner_Square_Inner": [
+      {
+        "kind": "box",
+        "position": [
+          4.5,
+          1.5,
+          -2
+        ],
+        "rotation": [
+          0,
+          0,
+          0
+        ],
+        "scale": [
+          1,
+          3,
+          4
+        ]
+      },
+      {
+        "kind": "box",
+        "position": [
+          2,
+          1.5,
+          -4.5
+        ],
+        "rotation": [
+          0,
+          90,
+          0
+        ],
+        "scale": [
+          1,
+          3,
+          4
+        ]
+      }
+    ],
+    "Walls/TopSimple_Straight": [
+      {
+        "kind": "box",
+        "position": [
+          2.25,
+          4,
+          0
+        ],
+        "rotation": [
+          0,
+          0,
+          0
+        ],
+        "scale": [
+          0.5,
+          2,
+          4
+        ]
+      }
+    ],
+    "Walls/WallWideBand_Straight": [
+      {
+        "kind": "box",
+        "position": [
+          2.5,
+          1.5,
+          0
+        ],
+        "rotation": [
+          0,
+          0,
+          0
+        ],
+        "scale": [
+          1,
+          3,
+          4
+        ]
+      }
+    ],
+    "Platforms/Platform_Metal_Curve": [
+      {
+        "kind": "box",
+        "position": [
+          0,
+          -0.25,
+          0
+        ],
+        "rotation": [
+          0,
+          0,
+          0
+        ],
+        "scale": [
+          4,
+          0.5,
+          4
+        ]
+      }
+    ],
+    "Platforms/Platform_Metal2_Curve": [
+      {
+        "kind": "box",
+        "position": [
+          0,
+          -0.25,
+          0
+        ],
+        "rotation": [
+          0,
+          0,
+          0
+        ],
+        "scale": [
+          4,
+          0.5,
+          4
+        ]
+      }
+    ],
+    "Platforms/Platform_Metal": [
+      {
+        "kind": "box",
+        "position": [
+          -0.1,
+          -0.25,
+          0
+        ],
+        "rotation": [
+          0,
+          0,
+          0
+        ],
+        "scale": [
+          4,
+          0.5,
+          4
+        ]
+      }
+    ],
+    "Platforms/Platform_3Plates": [
+      {
+        "kind": "box",
+        "position": [
+          0,
+          -0.25,
+          0
+        ],
+        "rotation": [
+          0,
+          0,
+          0
+        ],
+        "scale": [
+          4,
+          0.5,
+          4
+        ]
+      }
+    ],
+    "Platforms/Platform_CenterPlate": [
+      {
+        "kind": "box",
+        "position": [
+          0,
+          -0.25,
+          0
+        ],
+        "rotation": [
+          0,
+          0,
+          0
+        ],
+        "scale": [
+          4,
+          0.5,
+          4
+        ]
+      }
+    ],
+    "Platforms/Platform_CenterPlate_Curve": [
+      {
+        "kind": "box",
+        "position": [
+          0,
+          -0.25,
+          0
+        ],
+        "rotation": [
+          0,
+          0,
+          0
+        ],
+        "scale": [
+          4,
+          0.5,
+          4
+        ]
+      }
+    ],
+    "Platforms/Platform_DarkPlates_Curves": [
+      {
+        "kind": "box",
+        "position": [
+          0,
+          -0.25,
+          0
+        ],
+        "rotation": [
+          0,
+          0,
+          0
+        ],
+        "scale": [
+          4,
+          0.5,
+          4
+        ]
+      }
+    ],
+    "Platforms/Platform_Padded": [
+      {
+        "kind": "box",
+        "position": [
+          0,
+          -0.25,
+          0
+        ],
+        "rotation": [
+          0,
+          0,
+          0
+        ],
+        "scale": [
+          4,
+          0.5,
+          4
+        ]
+      }
+    ],
+    "Platforms/Platform_RedAccent": [
+      {
+        "kind": "box",
+        "position": [
+          0,
+          -0.25,
+          0
+        ],
+        "rotation": [
+          0,
+          0,
+          0
+        ],
+        "scale": [
+          4,
+          0.5,
+          4
+        ]
+      }
+    ],
+    "Platforms/Platform_RedAccent_Curve": [
+      {
+        "kind": "box",
+        "position": [
+          0,
+          -0.25,
+          0
+        ],
+        "rotation": [
+          0,
+          0,
+          0
+        ],
+        "scale": [
+          4,
+          0.5,
+          4
+        ]
+      }
+    ],
+    "Platforms/Platform_Round2": [
+      {
+        "kind": "box",
+        "position": [
+          0,
+          -0.1209,
+          0
+        ],
+        "rotation": [
+          0,
+          0,
+          0
+        ],
+        "scale": [
+          6,
+          0.5,
+          6
+        ]
+      }
+    ],
+    "Platforms/Platform_Simple": [
+      {
+        "kind": "box",
+        "position": [
+          0.0184,
+          -0.25,
+          0
+        ],
+        "rotation": [
+          0,
+          0,
+          0
+        ],
+        "scale": [
+          4,
+          0.5,
+          4
+        ]
+      }
+    ],
+    "Platforms/Platform_Simple_Curve": [
+      {
+        "kind": "box",
+        "position": [
+          0.0184,
+          -0.25,
+          0
+        ],
+        "rotation": [
+          0,
+          0,
+          0
+        ],
+        "scale": [
+          4,
+          0.5,
+          4
+        ]
+      }
+    ],
+    "Platforms/Platform_Simple2": [
+      {
+        "kind": "box",
+        "position": [
+          0.0184,
+          -0.25,
+          0
+        ],
+        "rotation": [
+          0,
+          0,
+          0
+        ],
+        "scale": [
+          4,
+          0.5,
+          4
+        ]
+      }
+    ],
+    "Platforms/Platform_Simple2_Curve": [
+      {
+        "kind": "box",
+        "position": [
+          0.0184,
+          -0.25,
+          0
+        ],
+        "rotation": [
+          0,
+          0,
+          0
+        ],
+        "scale": [
+          4,
+          0.5,
+          4
+        ]
+      }
+    ],
+    "Platforms/Platform_Squares": [
+      {
+        "kind": "box",
+        "position": [
+          0.0184,
+          -0.25,
+          0
+        ],
+        "rotation": [
+          0,
+          0,
+          0
+        ],
+        "scale": [
+          4,
+          0.5,
+          4
+        ]
+      }
+    ],
+    "Platforms/Platform_Squares_Curve": [
+      {
+        "kind": "box",
+        "position": [
+          0.0184,
+          -0.25,
+          0
+        ],
+        "rotation": [
+          0,
+          0,
+          0
+        ],
+        "scale": [
+          4,
+          0.5,
+          4
+        ]
+      }
+    ],
+    "Platforms/Platform_WidePlates": [
+      {
+        "kind": "box",
+        "position": [
+          0.0184,
+          -0.25,
+          0
+        ],
+        "rotation": [
+          0,
+          0,
+          0
+        ],
+        "scale": [
+          4,
+          0.5,
+          4
+        ]
+      }
+    ],
+    "Platforms/Platform_WidePlates_Curve": [
+      {
+        "kind": "box",
+        "position": [
+          0.0184,
+          -0.25,
+          0
+        ],
+        "rotation": [
+          0,
+          0,
+          0
+        ],
+        "scale": [
+          4,
+          0.5,
+          4
+        ]
+      }
+    ],
+    "Platforms/Platform_X": [
+      {
+        "kind": "box",
+        "position": [
+          0.0184,
+          -0.25,
+          0
+        ],
+        "rotation": [
+          0,
+          0,
+          0
+        ],
+        "scale": [
+          4,
+          0.5,
+          4
+        ]
+      }
+    ],
+    "Platforms/Platform_Round1": [
+      {
+        "kind": "box",
+        "position": [
+          0,
+          -0.115,
+          0
+        ],
+        "rotation": [
+          0,
+          0,
+          0
+        ],
+        "scale": [
+          6,
+          0.5,
+          6
+        ]
+      }
+    ],
+    "Platforms/Platform_Window_Thin": [
+      {
+        "kind": "box",
+        "position": [
+          0,
+          -0.25,
+          0
+        ],
+        "rotation": [
+          0,
+          0,
+          0
+        ],
+        "scale": [
+          2.885,
+          0.5,
+          4
+        ]
+      }
+    ],
+    "Platforms/Platform_Window_Wide": [
+      {
+        "kind": "box",
+        "position": [
+          -0.0003,
+          -0.25,
+          0
+        ],
+        "rotation": [
+          0,
+          0,
+          0
+        ],
+        "scale": [
+          4,
+          0.5,
+          4
+        ]
+      }
+    ],
+    "Platforms/Door_DarkMetal": [
+      {
+        "kind": "box",
+        "position": [
+          1.05,
+          2.025,
+          0
+        ],
+        "rotation": [
+          0,
+          0,
+          0
+        ],
+        "scale": [
+          2.11,
+          4.05,
+          0.5
+        ]
+      }
+    ],
+    "Platforms/Door_Metal": [
+      {
+        "kind": "box",
+        "position": [
+          1.055,
+          2.025,
+          0.05
+        ],
+        "rotation": [
+          0,
+          0,
+          0
+        ],
+        "scale": [
+          2.11,
+          4.05,
+          0.5
+        ]
+      }
+    ],
+    "Platforms/Door_Simple": [
+      {
+        "kind": "box",
+        "position": [
+          1.055,
+          2.025,
+          0.05
+        ],
+        "rotation": [
+          0,
+          0,
+          0
+        ],
+        "scale": [
+          2.11,
+          4.05,
+          0.5
+        ]
+      }
+    ],
+    "Platforms/Door_Frame_Square": [
+      {
+        "kind": "box",
+        "position": [
+          1.931,
+          2.493,
+          0
+        ],
+        "rotation": [
+          0,
+          0,
+          0
+        ],
+        "scale": [
+          1.05,
+          5.013,
+          0.507
+        ]
+      },
+      {
+        "kind": "box",
+        "position": [
+          -1.929,
+          2.493,
+          0
+        ],
+        "rotation": [
+          0,
+          0,
+          0
+        ],
+        "scale": [
+          1.05,
+          5.013,
+          0.507
+        ]
+      },
+      {
+        "kind": "box",
+        "position": [
+          0.001,
+          4.28,
+          0
+        ],
+        "rotation": [
+          0,
+          0,
+          0
+        ],
+        "scale": [
+          2.85,
+          1.44,
+          0.507
+        ]
+      }
+    ],
+    "Walls/TopPadded_Incline_Straight": [
+      {
+        "kind": "box",
+        "position": [
+          1.515,
+          4.002,
+          0.002
+        ],
+        "rotation": [
+          0,
+          0,
+          25
+        ],
+        "scale": [
+          0.3,
+          2.2,
+          4
+        ]
+      }
+    ],
+    "Walls/TopPadded_Incline_Curve_Round_Inner": [
+      {
+        "kind": "box",
+        "position": [
+          3.0595,
+          3.9562,
+          -1.4644
+        ],
+        "rotation": [
+          0,
+          15,
+          25
+        ],
+        "scale": [
+          0.5,
+          2.404,
+          3.3
+        ]
+      },
+      {
+        "kind": "box",
+        "position": [
+          1.3183,
+          3.9625,
+          -2.9989
+        ],
+        "rotation": [
+          26.7751,
+          -17.4595,
+          1.3368
+        ],
+        "scale": [
+          3.2,
+          2.4,
+          0.5
+        ]
+      }
+    ],
+    "Walls/TopPadded_Incline_Curve_Square_Outer": [
+      {
+        "kind": "box",
+        "position": [
+          2.1387,
+          4.0228,
+          -4.3655
+        ],
+        "rotation": [
+          0,
+          -90,
+          25
+        ],
+        "scale": [
+          0.5,
+          2.35,
+          4.3
+        ]
+      },
+      {
+        "kind": "box",
+        "position": [
+          4.4015,
+          4.0283,
+          -2.0811
+        ],
+        "rotation": [
+          0,
+          180,
+          25
+        ],
+        "scale": [
+          0.5,
+          2.25,
+          4.2
+        ]
+      },
+      {
+        "kind": "box",
+        "position": [
+          4.3201,
+          4.5242,
+          -4.2706
+        ],
+        "rotation": [
+          -0.4305,
+          41.787,
+          -20.924
+        ],
+        "scale": [
+          0.5,
+          1.3,
+          1.3
+        ]
+      }
+    ],
+    "Props/Prop_Pod": [
+      {
+        "kind": "cylinder",
+        "position": [
+          0.007,
+          2.056,
+          0.001
+        ],
+        "rotation": [
+          0,
+          0,
+          0
+        ],
+        "scale": [
+          2.144,
+          4.15,
+          2.144
+        ]
+      }
+    ],
+    "Props/Prop_ItemHolder": [
+      {
+        "kind": "sphere",
+        "position": [
+          0.0224,
+          0.0736,
+          -0.0004
+        ],
+        "rotation": [
+          0,
+          0,
+          0
+        ],
+        "scale": [
+          1,
+          1,
+          1
+        ]
+      }
+    ],
+    "Props/Prop_Barrel_Small": [
+      {
+        "kind": "capsule",
+        "position": [
+          0,
+          0.4056,
+          0
+        ],
+        "rotation": [
+          0,
+          0,
+          0
+        ],
+        "scale": [
+          0.45,
+          0.9,
+          0.45
+        ]
+      }
+    ],
+    "Walls/WallAstra_Corner_Round_Inner": [
+      {
+        "kind": "box",
+        "position": [
+          4.11,
+          1.467,
+          -0.74
+        ],
+        "rotation": [
+          -0.867,
+          9.963,
+          -10
+        ],
+        "scale": [
+          0.3,
+          3.1,
+          1.5
+        ]
+      },
+      {
+        "kind": "box",
+        "position": [
+          3.4198,
+          1.4668,
+          -2.3479
+        ],
+        "rotation": [
+          -0.8672,
+          34.9627,
+          -5.0756
+        ],
+        "scale": [
+          0.3,
+          3.1,
+          1.6
+        ]
+      },
+      {
+        "kind": "box",
+        "position": [
+          2.4101,
+          1.4123,
+          -3.4601
+        ],
+        "rotation": [
+          -0.8672,
+          54.9627,
+          -5.0756
+        ],
+        "scale": [
+          0.3,
+          3.1,
+          1.6
+        ]
+      },
+      {
+        "kind": "box",
+        "position": [
+          0.7513,
+          1.3761,
+          -4.097
+        ],
+        "rotation": [
+          0,
+          80,
+          -10
+        ],
+        "scale": [
+          0.3,
+          3.1,
+          1.6
+        ]
+      },
+      {
+        "kind": "box",
+        "position": [
+          3.843,
+          1.422,
+          -1.612
+        ],
+        "rotation": [
+          -0.867,
+          22,
+          -10
+        ],
+        "scale": [
+          0.8,
+          3.2,
+          0.5
+        ]
+      },
+      {
+        "kind": "box",
+        "position": [
+          1.598,
+          1.379,
+          -3.859
+        ],
+        "rotation": [
+          0.5,
+          71,
+          -10
+        ],
+        "scale": [
+          0.8,
+          3.2,
+          0.5
+        ]
+      },
+      {
+        "kind": "box",
+        "position": [
+          4.294,
+          2.903,
+          -0.872
+        ],
+        "rotation": [
+          23.5,
+          101.53,
+          0
+        ],
+        "scale": [
+          1.706,
+          0.6,
+          1.38
+        ]
+      },
+      {
+        "kind": "box",
+        "position": [
+          3.103,
+          2.903,
+          -3.095
+        ],
+        "rotation": [
+          23.5,
+          135.46,
+          0
+        ],
+        "scale": [
+          3.397,
+          0.6,
+          1.38
+        ]
+      },
+      {
+        "kind": "box",
+        "position": [
+          0.868,
+          2.903,
+          -4.293
+        ],
+        "rotation": [
+          23.5,
+          167.52,
+          0
+        ],
+        "scale": [
+          1.7,
+          0.6,
+          1.377
+        ]
+      }
+    ],
+    "Walls/WallAstra_Corner_Round_Outer": [
+      {
+        "kind": "box",
+        "position": [
+          3.7879,
+          1.5621,
+          -0.5602
+        ],
+        "rotation": [
+          -0.867,
+          -170.037,
+          -10
+        ],
+        "scale": [
+          0.3,
+          3.1,
+          1.5
+        ]
+      },
+      {
+        "kind": "box",
+        "position": [
+          3.5485,
+          1.5223,
+          -1.4432
+        ],
+        "rotation": [
+          -0.867,
+          -158,
+          -10
+        ],
+        "scale": [
+          0.8,
+          3.2,
+          0.5
+        ]
+      },
+      {
+        "kind": "box",
+        "position": [
+          3.098,
+          1.562,
+          -2.168
+        ],
+        "rotation": [
+          -0.867,
+          -145.037,
+          -10
+        ],
+        "scale": [
+          0.3,
+          3.1,
+          1.6
+        ]
+      },
+      {
+        "kind": "box",
+        "position": [
+          2.0521,
+          1.4756,
+          -3.0957
+        ],
+        "rotation": [
+          -0.867,
+          -125.037,
+          -10
+        ],
+        "scale": [
+          0.3,
+          3.1,
+          1.6
+        ]
+      },
+      {
+        "kind": "box",
+        "position": [
+          1.4557,
+          1.4568,
+          -3.5018
+        ],
+        "rotation": [
+          0.5,
+          -109,
+          -10
+        ],
+        "scale": [
+          0.8,
+          3.2,
+          0.5
+        ]
+      },
+      {
+        "kind": "box",
+        "position": [
+          0.637,
+          1.4366,
+          -3.6814
+        ],
+        "rotation": [
+          0,
+          -100,
+          -10
+        ],
+        "scale": [
+          0.3,
+          3.1,
+          1.4
+        ]
+      },
+      {
+        "kind": "box",
+        "position": [
+          3.532,
+          2.903,
+          -0.716
+        ],
+        "rotation": [
+          -23.5,
+          101.72,
+          0
+        ],
+        "scale": [
+          1.537,
+          0.45,
+          1.391
+        ]
+      },
+      {
+        "kind": "box",
+        "position": [
+          2.533,
+          2.903,
+          -2.56
+        ],
+        "rotation": [
+          -23.5,
+          133.19,
+          0
+        ],
+        "scale": [
+          3.113,
+          0.45,
+          1.396
+        ]
+      },
+      {
+        "kind": "box",
+        "position": [
+          0.725,
+          2.903,
+          -3.528
+        ],
+        "rotation": [
+          -23.5,
+          172.1,
+          0
+        ],
+        "scale": [
+          1.561,
+          0.45,
+          1.396
+        ]
+      }
+    ],
+    "Props/Prop_Crate2": [
+      {
+        "kind": "box",
+        "position": [
+          0,
+          0,
+          0
+        ],
+        "rotation": [
+          0,
+          0,
+          0
+        ],
+        "scale": [
+          1,
+          1,
+          1
+        ]
+      }
+    ],
+    "Props/Prop_Crate1": [
+      {
+        "kind": "box",
+        "position": [
+          0,
+          0,
+          0
+        ],
+        "rotation": [
+          0,
+          0,
+          0
+        ],
+        "scale": [
+          1,
+          1,
+          1
+        ]
+      }
+    ],
+    "Props/Prop_Crate4": [
+      {
+        "kind": "box",
+        "position": [
+          0,
+          0,
+          0
+        ],
+        "rotation": [
+          0,
+          0,
+          0
+        ],
+        "scale": [
+          1.1209,
+          1.1209,
+          1.1209
+        ]
+      }
+    ],
+    "Props/Prop_Crate3": [
+      {
+        "kind": "box",
+        "position": [
+          0,
+          0,
+          0
+        ],
+        "rotation": [
+          0,
+          0,
+          0
+        ],
+        "scale": [
+          1,
+          1,
+          1
+        ]
+      }
+    ],
+    "Props/Prop_Pipe_Capped": [
+      {
+        "kind": "cylinder",
+        "position": [
+          0,
+          0,
+          0
+        ],
+        "rotation": [
+          -90,
+          0,
+          0
+        ],
+        "scale": [
+          0.29,
+          4,
+          0.29
+        ]
+      }
+    ],
+    "Props/Prop_Pipe_Medium_Straight": [
+      {
+        "kind": "cylinder",
+        "position": [
+          0.0001,
+          0,
+          0
+        ],
+        "rotation": [
+          -90,
+          0,
+          0
+        ],
+        "scale": [
+          0.275,
+          4,
+          0.275
+        ]
+      }
+    ],
+    "Props/Prop_Pipe_Small_Straight": [
+      {
+        "kind": "cylinder",
+        "position": [
+          -0.0003,
+          0,
+          -0.0005
+        ],
+        "rotation": [
+          -90,
+          0,
+          0
+        ],
+        "scale": [
+          0.15,
+          4,
+          0.15
+        ]
+      }
+    ],
+    "Props/Prop_Pipe_Thick_Straight": [
+      {
+        "kind": "cylinder",
+        "position": [
+          0.0011,
+          0,
+          0.002
+        ],
+        "rotation": [
+          -90,
+          0,
+          0
+        ],
+        "scale": [
+          0.5482,
+          4,
+          0.5482
+        ]
+      }
+    ],
+    "Walls/WallAstra_Corner_Square_Outer": [
+      {
+        "kind": "box",
+        "position": [
+          3.567,
+          1.8285,
+          -1.8113
+        ],
+        "rotation": [
+          -0.001,
+          -0.002,
+          11.5
+        ],
+        "scale": [
+          0.455,
+          2.028,
+          3.6
+        ]
+      },
+      {
+        "kind": "box",
+        "position": [
+          1.7864,
+          1.8105,
+          -3.5509
+        ],
+        "rotation": [
+          -0.5349,
+          90.1161,
+          10.0099
+        ],
+        "scale": [
+          0.4786,
+          2.0325,
+          3.6353
+        ]
+      },
+      {
+        "kind": "box",
+        "position": [
+          2.0038,
+          1.5185,
+          -4.0141
+        ],
+        "rotation": [
+          -0.8773,
+          93.6764,
+          6.9046
+        ],
+        "scale": [
+          0.4669,
+          3.0302,
+          0.4039
+        ]
+      },
+      {
+        "kind": "box",
+        "position": [
+          3.9475,
+          1.5372,
+          -1.9956
+        ],
+        "rotation": [
+          0.0921,
+          2.1662,
+          11.2848
+        ],
+        "scale": [
+          0.4669,
+          3.0302,
+          0.4039
+        ]
+      },
+      {
+        "kind": "box",
+        "position": [
+          1.9771,
+          0.4957,
+          -3.702
+        ],
+        "rotation": [
+          0,
+          0,
+          0.5
+        ],
+        "scale": [
+          3.9,
+          1,
+          0.6
+        ]
+      },
+      {
+        "kind": "box",
+        "position": [
+          3.7208,
+          0.5109,
+          -2.0053
+        ],
+        "rotation": [
+          0.5,
+          -90,
+          0
+        ],
+        "scale": [
+          4,
+          1,
+          0.6
+        ]
+      },
+      {
+        "kind": "cylinder",
+        "position": [
+          3.5981,
+          1.8117,
+          -3.6085
+        ],
+        "rotation": [
+          9.9996,
+          0.0882,
+          10.5077
+        ],
+        "scale": [
+          0.5,
+          1.9,
+          0.5
+        ]
+      },
+      {
+        "kind": "box",
+        "position": [
+          1.762,
+          2.8091,
+          -3.58
+        ],
+        "rotation": [
+          23.4991,
+          0.2174,
+          0.5452
+        ],
+        "scale": [
+          3.7,
+          0.2,
+          1
+        ]
+      },
+      {
+        "kind": "box",
+        "position": [
+          3.608,
+          2.8139,
+          -1.8061
+        ],
+        "rotation": [
+          -23.5,
+          90,
+          0
+        ],
+        "scale": [
+          3.7,
+          0.2,
+          1
+        ]
+      },
+      {
+        "kind": "sphere",
+        "position": [
+          3.7263,
+          2.9706,
+          -3.7263
+        ],
+        "rotation": [
+          0,
+          0,
+          0
+        ],
+        "scale": [
+          0.5667,
+          0.5667,
+          0.5667
+        ]
+      }
+    ],
+    "Walls/WallAstra_Straight": [
+      {
+        "kind": "box",
+        "position": [
+          2.294,
+          1.477,
+          0
+        ],
+        "rotation": [
+          0,
+          0,
+          -10
+        ],
+        "scale": [
+          0.35,
+          3.2,
+          4
+        ]
+      },
+      {
+        "kind": "box",
+        "position": [
+          2.016,
+          1.467,
+          0
+        ],
+        "rotation": [
+          0,
+          0,
+          -10
+        ],
+        "scale": [
+          0.467,
+          3.2,
+          0.404
+        ]
+      },
+      {
+        "kind": "box",
+        "position": [
+          2.387,
+          2.865,
+          0
+        ],
+        "rotation": [
+          23.5,
+          90,
+          0
+        ],
+        "scale": [
+          4,
+          0.35,
+          1
+        ]
+      }
+    ],
+    "Walls/WallAstra_Straight_Broken": [
+      {
+        "kind": "box",
+        "position": [
+          2.294,
+          1.477,
+          0
+        ],
+        "rotation": [
+          0,
+          0,
+          -10
+        ],
+        "scale": [
+          0.35,
+          3.2,
+          4
+        ]
+      },
+      {
+        "kind": "box",
+        "position": [
+          1.929,
+          1.467,
+          -0.008
+        ],
+        "rotation": [
+          0,
+          0,
+          -10
+        ],
+        "scale": [
+          0.467,
+          3.2,
+          0.584
+        ]
+      },
+      {
+        "kind": "box",
+        "position": [
+          2.387,
+          2.8,
+          0
+        ],
+        "rotation": [
+          23.5,
+          90,
+          0
+        ],
+        "scale": [
+          4,
+          0.35,
+          1
+        ]
+      }
+    ],
+    "Walls/WallAstra_Straight_Window": [
+      {
+        "kind": "box",
+        "position": [
+          2.294,
+          1.47,
+          0
+        ],
+        "rotation": [
+          0,
+          0,
+          -10
+        ],
+        "scale": [
+          0.35,
+          3.2,
+          4
+        ]
+      },
+      {
+        "kind": "box",
+        "position": [
+          2.239,
+          2.783,
+          0
+        ],
+        "rotation": [
+          23.5,
+          90,
+          0
+        ],
+        "scale": [
+          4,
+          0.35,
+          1
+        ]
+      }
+    ],
+    "Walls/WallAstra_Straight_Divided": [
+      {
+        "kind": "box",
+        "position": [
+          2.294,
+          1.477,
+          0
+        ],
+        "rotation": [
+          0,
+          0,
+          -10
+        ],
+        "scale": [
+          0.35,
+          3.2,
+          4
+        ]
+      },
+      {
+        "kind": "box",
+        "position": [
+          2.016,
+          1.467,
+          0.048
+        ],
+        "rotation": [
+          0,
+          0,
+          -10
+        ],
+        "scale": [
+          0.467,
+          3.2,
+          0.423
+        ]
+      },
+      {
+        "kind": "box",
+        "position": [
+          2.387,
+          2.856,
+          0
+        ],
+        "rotation": [
+          23.5,
+          90,
+          0
+        ],
+        "scale": [
+          4,
+          0.35,
+          1
+        ]
+      }
+    ],
+    "Walls/WallAstra_Straight_Flat_Window": [
+      {
+        "kind": "box",
+        "position": [
+          2.0405,
+          1.5014,
+          0
+        ],
+        "rotation": [
+          -1.9468,
+          90,
+          0
+        ],
+        "scale": [
+          4,
+          2.9982,
+          0.5
+        ]
+      },
+      {
+        "kind": "box",
+        "position": [
+          2.2867,
+          1.4284,
+          0
+        ],
+        "rotation": [
+          89.3697,
+          90,
+          90
+        ],
+        "scale": [
+          0.5,
+          3.0702,
+          0.6
+        ]
+      },
+      {
+        "kind": "box",
+        "position": [
+          2.2924,
+          2.2585,
+          0
+        ],
+        "rotation": [
+          -89.2361,
+          -90,
+          -90
+        ],
+        "scale": [
+          0.5,
+          3.0702,
+          0.6
+        ]
+      }
+    ],
+    "Walls/WallAstra_Corner_Square_Inner": [
+      {
+        "kind": "box",
+        "position": [
+          4.3613,
+          1.384,
+          -2.3969
+        ],
+        "rotation": [
+          7.4767,
+          90.2946,
+          0
+        ],
+        "scale": [
+          4.7872,
+          3.2942,
+          0.6
+        ]
+      },
+      {
+        "kind": "box",
+        "position": [
+          2.3912,
+          1.384,
+          -4.4028
+        ],
+        "rotation": [
+          7.4767,
+          179.7053,
+          0
+        ],
+        "scale": [
+          4.7872,
+          3.2942,
+          0.6
+        ]
+      },
+      {
+        "kind": "box",
+        "position": [
+          4.4419,
+          2.856,
+          -2.0969
+        ],
+        "rotation": [
+          23.5,
+          90,
+          0
+        ],
+        "scale": [
+          4.2,
+          0.35,
+          1
+        ]
+      },
+      {
+        "kind": "box",
+        "position": [
+          2.1144,
+          2.856,
+          -4.341
+        ],
+        "rotation": [
+          23.5,
+          180,
+          0
+        ],
+        "scale": [
+          4.2,
+          0.35,
+          1
+        ]
+      },
+      {
+        "kind": "box",
+        "position": [
+          4.0114,
+          1.48,
+          -2.0011
+        ],
+        "rotation": [
+          -1.0367,
+          -176.3653,
+          9.3999
+        ],
+        "scale": [
+          0.4669,
+          3.0302,
+          0.4039
+        ]
+      },
+      {
+        "kind": "box",
+        "position": [
+          1.9977,
+          1.4649,
+          -4.022
+        ],
+        "rotation": [
+          -1.1,
+          -86.3839,
+          10.398
+        ],
+        "scale": [
+          0.4669,
+          3.0302,
+          0.4039
+        ]
+      }
+    ],
+    "Walls/WallAstra_Straight_Flat": [
+      {
+        "kind": "box",
+        "position": [
+          2.05,
+          1.5,
+          0
+        ],
+        "rotation": [
+          0,
+          0,
+          0
+        ],
+        "scale": [
+          0.5,
+          3,
+          4
+        ]
+      }
+    ],
+    "Walls/ShortWall_Band2_Straight": [
+      {
+        "kind": "box",
+        "position": [
+          2.2415,
+          1.0009,
+          0
+        ],
+        "rotation": [
+          0,
+          0,
+          0
+        ],
+        "scale": [
+          0.5,
+          1.9981,
+          4
+        ]
+      }
+    ],
+    "Walls/ShortWall_Band2_Corner_Outer": [
+      {
+        "kind": "box",
+        "position": [
+          2.8363,
+          1.0009,
+          -2.5704
+        ],
+        "rotation": [
+          0,
+          -47.7677,
+          0
+        ],
+        "scale": [
+          1.9404,
+          1.9982,
+          0.5
+        ]
+      },
+      {
+        "kind": "box",
+        "position": [
+          1.287,
+          1.0009,
+          -3.5972
+        ],
+        "rotation": [
+          0,
+          -19.728,
+          0
+        ],
+        "scale": [
+          1.9398,
+          1.9982,
+          0.5
+        ]
+      },
+      {
+        "kind": "box",
+        "position": [
+          3.6569,
+          1.0009,
+          -1.1095
+        ],
+        "rotation": [
+          0,
+          -73.1338,
+          0
+        ],
+        "scale": [
+          1.558,
+          1.9982,
+          0.5
+        ]
+      },
+      {
+        "kind": "box",
+        "position": [
+          0.1846,
+          1.0009,
+          -3.8207
+        ],
+        "rotation": [
+          0,
+          -3.8509,
+          0
+        ],
+        "scale": [
+          0.5,
+          1.9982,
+          0.5
+        ]
+      },
+      {
+        "kind": "box",
+        "position": [
+          3.8132,
+          1.0009,
+          -0.1841
+        ],
+        "rotation": [
+          0,
+          -86.149,
+          0
+        ],
+        "scale": [
+          0.5,
+          1.9982,
+          0.5
+        ]
+      }
+    ],
+    "Walls/ShortWall_Band2_Corner_Inner": [
+      {
+        "kind": "box",
+        "position": [
+          2.7178,
+          1.0009,
+          -2.9987
+        ],
+        "rotation": [
+          0,
+          137.7677,
+          0
+        ],
+        "scale": [
+          1.9404,
+          1.9982,
+          0.5
+        ]
+      },
+      {
+        "kind": "box",
+        "position": [
+          3.81,
+          1.0009,
+          -1.3633
+        ],
+        "rotation": [
+          0,
+          109.728,
+          0
+        ],
+        "scale": [
+          1.9398,
+          1.9982,
+          0.5
+        ]
+      },
+      {
+        "kind": "box",
+        "position": [
+          1.1875,
+          1.0009,
+          -3.9142
+        ],
+        "rotation": [
+          0,
+          163.1338,
+          0
+        ],
+        "scale": [
+          1.558,
+          1.9982,
+          0.5
+        ]
+      },
+      {
+        "kind": "box",
+        "position": [
+          4.1604,
+          1.0009,
+          -0.2075
+        ],
+        "rotation": [
+          0,
+          93.8509,
+          0
+        ],
+        "scale": [
+          0.5,
+          1.9982,
+          0.5
+        ]
+      },
+      {
+        "kind": "box",
+        "position": [
+          0.2075,
+          1.0009,
+          -4.1604
+        ],
+        "rotation": [
+          0,
+          176.149,
+          0
+        ],
+        "scale": [
+          0.5,
+          1.9982,
+          0.5
+        ]
+      }
+    ],
+    "Walls/ShortWall_DarkMetal2_Straight": [
+      {
+        "kind": "box",
+        "position": [
+          2.249,
+          1.0009,
+          0
+        ],
+        "rotation": [
+          0,
+          0,
+          0
+        ],
+        "scale": [
+          0.5,
+          2.0019,
+          4
+        ]
+      }
+    ],
+    "Walls/ShortWall_DarkMetal2_Corner_Outer": [
+      {
+        "kind": "box",
+        "position": [
+          2.8314,
+          1.0012,
+          -2.5659
+        ],
+        "rotation": [
+          0,
+          -47.7426,
+          0
+        ],
+        "scale": [
+          1.9404,
+          2.0014,
+          0.5
+        ]
+      },
+      {
+        "kind": "box",
+        "position": [
+          1.287,
+          1.0007,
+          -3.5972
+        ],
+        "rotation": [
+          0,
+          -19.728,
+          0
+        ],
+        "scale": [
+          1.9398,
+          2.0014,
+          0.5
+        ]
+      },
+      {
+        "kind": "box",
+        "position": [
+          3.6569,
+          1.0007,
+          -1.1095
+        ],
+        "rotation": [
+          0,
+          -73.1338,
+          0
+        ],
+        "scale": [
+          1.558,
+          2.0014,
+          0.5
+        ]
+      },
+      {
+        "kind": "box",
+        "position": [
+          0.1841,
+          1.0016,
+          -3.8132
+        ],
+        "rotation": [
+          0,
+          -3.851,
+          0
+        ],
+        "scale": [
+          0.5,
+          2.0004,
+          0.5
+        ]
+      },
+      {
+        "kind": "box",
+        "position": [
+          3.8132,
+          1.0016,
+          -0.1841
+        ],
+        "rotation": [
+          0,
+          -86.149,
+          0
+        ],
+        "scale": [
+          0.5,
+          2.0004,
+          0.5
+        ]
+      }
+    ],
+    "Walls/ShortWall_DarkMetal2_Corner_Inner": [
+      {
+        "kind": "box",
+        "position": [
+          2.7177,
+          1.0012,
+          -2.9984
+        ],
+        "rotation": [
+          0,
+          137.7434,
+          0
+        ],
+        "scale": [
+          1.9404,
+          2.0014,
+          0.5
+        ]
+      },
+      {
+        "kind": "box",
+        "position": [
+          3.81,
+          1.0007,
+          -1.3633
+        ],
+        "rotation": [
+          0,
+          109.728,
+          0
+        ],
+        "scale": [
+          1.9398,
+          2.0014,
+          0.5
+        ]
+      },
+      {
+        "kind": "box",
+        "position": [
+          1.1875,
+          1.0007,
+          -3.9142
+        ],
+        "rotation": [
+          0,
+          163.1338,
+          0
+        ],
+        "scale": [
+          1.558,
+          2.0014,
+          0.5
+        ]
+      },
+      {
+        "kind": "box",
+        "position": [
+          4.1604,
+          1.0016,
+          -0.2075
+        ],
+        "rotation": [
+          0,
+          93.851,
+          0
+        ],
+        "scale": [
+          0.5,
+          2.0004,
+          0.5
+        ]
+      },
+      {
+        "kind": "box",
+        "position": [
+          0.2075,
+          1.0016,
+          -4.1604
+        ],
+        "rotation": [
+          0,
+          176.149,
+          0
+        ],
+        "scale": [
+          0.5,
+          2.0004,
+          0.5
+        ]
+      }
+    ],
+    "Walls/ShortWall_Metal2_Straight": [
+      {
+        "kind": "box",
+        "position": [
+          2.249,
+          1.0019,
+          0
+        ],
+        "rotation": [
+          0,
+          0,
+          0
+        ],
+        "scale": [
+          0.5,
+          2,
+          4
+        ]
+      }
+    ],
+    "Walls/ShortWall_Metal2_Corner_Outer": [
+      {
+        "kind": "box",
+        "position": [
+          2.8314,
+          1.0019,
+          -2.5659
+        ],
+        "rotation": [
+          0,
+          -47.7456,
+          0
+        ],
+        "scale": [
+          1.9404,
+          2,
+          0.5
+        ]
+      },
+      {
+        "kind": "box",
+        "position": [
+          1.287,
+          1.0019,
+          -3.5972
+        ],
+        "rotation": [
+          0,
+          -19.728,
+          0
+        ],
+        "scale": [
+          1.9398,
+          2,
+          0.5
+        ]
+      },
+      {
+        "kind": "box",
+        "position": [
+          3.6569,
+          1.0019,
+          -1.1095
+        ],
+        "rotation": [
+          0,
+          -73.1338,
+          0
+        ],
+        "scale": [
+          1.558,
+          2,
+          0.5
+        ]
+      },
+      {
+        "kind": "box",
+        "position": [
+          0.1841,
+          1.0019,
+          -3.8132
+        ],
+        "rotation": [
+          0,
+          -3.851,
+          0
+        ],
+        "scale": [
+          0.5,
+          2,
+          0.5
+        ]
+      },
+      {
+        "kind": "box",
+        "position": [
+          3.8132,
+          1.0019,
+          -0.1841
+        ],
+        "rotation": [
+          0,
+          -86.149,
+          0
+        ],
+        "scale": [
+          0.5,
+          2,
+          0.5
+        ]
+      }
+    ],
+    "Walls/ShortWall_Metal2_Corner_Inner": [
+      {
+        "kind": "box",
+        "position": [
+          2.7177,
+          1.0019,
+          -2.9984
+        ],
+        "rotation": [
+          0,
+          137.7459,
+          0
+        ],
+        "scale": [
+          1.9404,
+          2,
+          0.5
+        ]
+      },
+      {
+        "kind": "box",
+        "position": [
+          3.81,
+          1.0019,
+          -1.3633
+        ],
+        "rotation": [
+          0,
+          109.728,
+          0
+        ],
+        "scale": [
+          1.9398,
+          2,
+          0.5
+        ]
+      },
+      {
+        "kind": "box",
+        "position": [
+          1.1875,
+          1.0019,
+          -3.9142
+        ],
+        "rotation": [
+          0,
+          163.1338,
+          0
+        ],
+        "scale": [
+          1.558,
+          2,
+          0.5
+        ]
+      },
+      {
+        "kind": "box",
+        "position": [
+          4.1604,
+          1.0019,
+          -0.2075
+        ],
+        "rotation": [
+          0,
+          93.851,
+          0
+        ],
+        "scale": [
+          0.5,
+          2,
+          0.5
+        ]
+      },
+      {
+        "kind": "box",
+        "position": [
+          0.2075,
+          1.0019,
+          -4.1604
+        ],
+        "rotation": [
+          0,
+          176.149,
+          0
+        ],
+        "scale": [
+          0.5,
+          2,
+          0.5
+        ]
+      }
+    ],
+    "Walls/ShortWall_WhitePlate2_Straight": [
+      {
+        "kind": "box",
+        "position": [
+          2.249,
+          1.0009,
+          0
+        ],
+        "rotation": [
+          0,
+          0,
+          0
+        ],
+        "scale": [
+          0.5,
+          2.0019,
+          4
+        ]
+      }
+    ],
+    "Walls/ShortWall_WhitePlate2_Corner_Outer": [
+      {
+        "kind": "box",
+        "position": [
+          3.5959,
+          1.0012,
+          -1.2914
+        ],
+        "rotation": [
+          0,
+          -70.193,
+          0
+        ],
+        "scale": [
+          1.892,
+          2.0014,
+          0.5
+        ]
+      },
+      {
+        "kind": "box",
+        "position": [
+          2.7052,
+          1.0009,
+          -2.7051
+        ],
+        "rotation": [
+          0,
+          -44.992,
+          0
+        ],
+        "scale": [
+          1.5968,
+          2.0018,
+          0.5
+        ]
+      },
+      {
+        "kind": "box",
+        "position": [
+          0.5636,
+          1.0009,
+          -3.7737
+        ],
+        "rotation": [
+          0,
+          -8.7383,
+          0
+        ],
+        "scale": [
+          1.1828,
+          2.0018,
+          0.5
+        ]
+      },
+      {
+        "kind": "box",
+        "position": [
+          1.6284,
+          1.0014,
+          -3.4556
+        ],
+        "rotation": [
+          0,
+          -25.3854,
+          0
+        ],
+        "scale": [
+          1.1426,
+          2.001,
+          0.5
+        ]
+      },
+      {
+        "kind": "box",
+        "position": [
+          3.8122,
+          1.0009,
+          -0.1989
+        ],
+        "rotation": [
+          0,
+          -86.1491,
+          0
+        ],
+        "scale": [
+          0.5,
+          2.0018,
+          0.5
+        ]
+      }
+    ],
+    "Walls/TopAstra_Straight": [
+      {
+        "kind": "box",
+        "position": [
+          2.1629,
+          4,
+          0
+        ],
+        "rotation": [
+          0,
+          0,
+          0
+        ],
+        "scale": [
+          0.5,
+          2,
+          4
+        ]
+      }
+    ],
+    "Walls/TopAstra_Curve_Round_Outer": [
+      {
+        "kind": "box",
+        "position": [
+          2.5803,
+          4,
+          -2.8205
+        ],
+        "rotation": [
+          -0.0091,
+          -42.7359,
+          0
+        ],
+        "scale": [
+          1.7508,
+          2,
+          0.5
+        ]
+      },
+      {
+        "kind": "box",
+        "position": [
+          0.821,
+          3.9999,
+          -3.7645
+        ],
+        "rotation": [
+          0.046,
+          -11.2749,
+          0
+        ],
+        "scale": [
+          1.7024,
+          2,
+          0.5
+        ]
+      },
+      {
+        "kind": "box",
+        "position": [
+          3.7645,
+          3.9999,
+          -0.821
+        ],
+        "rotation": [
+          0.0435,
+          -78.7258,
+          0
+        ],
+        "scale": [
+          1.7024,
+          2,
+          0.5
+        ]
+      },
+      {
+        "kind": "box",
+        "position": [
+          3.4173,
+          3.9999,
+          -1.8627
+        ],
+        "rotation": [
+          0.0708,
+          -60.679,
+          0
+        ],
+        "scale": [
+          0.8716,
+          2,
+          0.5
+        ]
+      },
+      {
+        "kind": "box",
+        "position": [
+          1.7179,
+          3.9998,
+          -3.5048
+        ],
+        "rotation": [
+          0.1246,
+          -26.2819,
+          0
+        ],
+        "scale": [
+          0.5156,
+          2,
+          0.5
+        ]
+      }
+    ],
+    "Walls/TopCables_Corner_Square_Inner": [
+      {
+        "kind": "box",
+        "position": [
+          1.895,
+          3.9972,
+          -3.5033
+        ],
+        "rotation": [
+          -0.4022,
+          179.9972,
+          0
+        ],
+        "scale": [
+          3.802,
+          2.0014,
+          0.6
+        ]
+      },
+      {
+        "kind": "box",
+        "position": [
+          3.5132,
+          3.9974,
+          -1.9043
+        ],
+        "rotation": [
+          -0.3939,
+          89.9998,
+          0
+        ],
+        "scale": [
+          3.8,
+          2.0014,
+          0.6
+        ]
+      },
+      {
+        "kind": "box",
+        "position": [
+          2.001,
+          3.422,
+          -3.9926
+        ],
+        "rotation": [
+          -35.4559,
+          179.9986,
+          0
+        ],
+        "scale": [
+          4.002,
+          0.615,
+          0.5
+        ]
+      },
+      {
+        "kind": "box",
+        "position": [
+          3.9913,
+          3.4235,
+          -2
+        ],
+        "rotation": [
+          -35.4223,
+          89.9997,
+          0
+        ],
+        "scale": [
+          4,
+          0.715,
+          0.5
+        ]
+      },
+      {
+        "kind": "box",
+        "position": [
+          1.8996,
+          3.8652,
+          -3.8501
+        ],
+        "rotation": [
+          0,
+          0,
+          0
+        ],
+        "scale": [
+          3.8,
+          0.1,
+          0.3
+        ]
+      },
+      {
+        "kind": "box",
+        "position": [
+          3.852,
+          3.8545,
+          -2.0005
+        ],
+        "rotation": [
+          0,
+          90,
+          0
+        ],
+        "scale": [
+          4,
+          0.1,
+          0.3
+        ]
+      }
+    ],
+    "Walls/ShortWall_WhitePlate2_Corner_Inner": [
+      {
+        "kind": "box",
+        "position": [
+          1.3702,
+          1.0012,
+          -3.8146
+        ],
+        "rotation": [
+          0,
+          160.193,
+          0
+        ],
+        "scale": [
+          1.892,
+          2.0014,
+          0.5
+        ]
+      },
+      {
+        "kind": "box",
+        "position": [
+          3.8146,
+          1.0012,
+          -1.3702
+        ],
+        "rotation": [
+          0,
+          109.8073,
+          0
+        ],
+        "scale": [
+          1.892,
+          2.0014,
+          0.5
+        ]
+      },
+      {
+        "kind": "box",
+        "position": [
+          2.8888,
+          1.0009,
+          -2.8888
+        ],
+        "rotation": [
+          0,
+          134.9923,
+          0
+        ],
+        "scale": [
+          1.5968,
+          2.0018,
+          0.5
+        ]
+      },
+      {
+        "kind": "box",
+        "position": [
+          4.1594,
+          1.0009,
+          -0.2223
+        ],
+        "rotation": [
+          0,
+          93.8511,
+          0
+        ],
+        "scale": [
+          0.5,
+          2.0018,
+          0.5
+        ]
+      },
+      {
+        "kind": "box",
+        "position": [
+          0.2223,
+          1.0009,
+          -4.1594
+        ],
+        "rotation": [
+          0,
+          176.1491,
+          0
+        ],
+        "scale": [
+          0.5,
+          2.0018,
+          0.5
+        ]
+      }
+    ],
+    "Walls/TopCables_Straight": [
+      {
+        "kind": "box",
+        "position": [
+          1.5132,
+          4,
+          0.0098
+        ],
+        "rotation": [
+          -0.3939,
+          89.9998,
+          0
+        ],
+        "scale": [
+          3.98,
+          2.0014,
+          0.58
+        ]
+      },
+      {
+        "kind": "box",
+        "position": [
+          1.852,
+          3.8571,
+          -0.0005
+        ],
+        "rotation": [
+          0,
+          90,
+          0
+        ],
+        "scale": [
+          4,
+          0.1,
+          0.3
+        ]
+      },
+      {
+        "kind": "box",
+        "position": [
+          1.9913,
+          3.4261,
+          0
+        ],
+        "rotation": [
+          -35.4223,
+          89.9997,
+          0
+        ],
+        "scale": [
+          4,
+          0.715,
+          0.5
+        ]
+      }
+    ],
+    "Walls/TopCables_Straight_Hanging": [
+      {
+        "kind": "box",
+        "position": [
+          1.5526,
+          4.0104,
+          -0.003
+        ],
+        "rotation": [
+          -0.3939,
+          89.9998,
+          0
+        ],
+        "scale": [
+          3.98,
+          2.0014,
+          0.58
+        ]
+      },
+      {
+        "kind": "box",
+        "position": [
+          1.8914,
+          3.8675,
+          -0.0133
+        ],
+        "rotation": [
+          0,
+          90,
+          0
+        ],
+        "scale": [
+          4,
+          0.1,
+          0.3
+        ]
+      },
+      {
+        "kind": "box",
+        "position": [
+          2.0307,
+          3.4365,
+          -0.0128
+        ],
+        "rotation": [
+          -35.4223,
+          89.9997,
+          0
+        ],
+        "scale": [
+          4,
+          0.715,
+          0.5
+        ]
+      }
+    ],
+    "Walls/TopAstra_Corner_Round_Inner": [
+      {
+        "kind": "box",
+        "position": [
+          0.8464,
+          4.0004,
+          -3.9265
+        ],
+        "rotation": [
+          -0.3266,
+          165.8005,
+          0
+        ],
+        "scale": [
+          1.677,
+          2.0006,
+          0.5
+        ]
+      },
+      {
+        "kind": "box",
+        "position": [
+          2.3447,
+          4.0004,
+          -3.2072
+        ],
+        "rotation": [
+          -0.3557,
+          148.085,
+          0
+        ],
+        "scale": [
+          1.898,
+          2.0012,
+          0.5
+        ]
+      },
+      {
+        "kind": "box",
+        "position": [
+          3.3729,
+          4.0006,
+          -2.1782
+        ],
+        "rotation": [
+          -0.4445,
+          120.6796,
+          0
+        ],
+        "scale": [
+          1.674,
+          2.001,
+          0.5
+        ]
+      },
+      {
+        "kind": "box",
+        "position": [
+          3.9642,
+          4.0005,
+          -0.7942
+        ],
+        "rotation": [
+          -0.2668,
+          103.9133,
+          0
+        ],
+        "scale": [
+          1.559,
+          2.0006,
+          0.5
+        ]
+      }
+    ],
+    "Walls/TopCables_Corner_Round_Outer": [
+      {
+        "kind": "box",
+        "position": [
+          0.8857,
+          4.002,
+          -4.1606
+        ],
+        "rotation": [
+          0,
+          -11.088,
+          0
+        ],
+        "scale": [
+          1.76,
+          2.001,
+          0.3
+        ]
+      },
+      {
+        "kind": "box",
+        "position": [
+          2.3564,
+          3.996,
+          -3.5611
+        ],
+        "rotation": [
+          0,
+          146.492,
+          0
+        ],
+        "scale": [
+          1.939,
+          1.995,
+          0.3
+        ]
+      },
+      {
+        "kind": "box",
+        "position": [
+          3.4708,
+          4.008,
+          -2.4024
+        ],
+        "rotation": [
+          0,
+          -55.742,
+          0
+        ],
+        "scale": [
+          2.01,
+          2.003,
+          0.3
+        ]
+      },
+      {
+        "kind": "box",
+        "position": [
+          4.177,
+          4.003,
+          -0.913
+        ],
+        "rotation": [
+          0,
+          -78.893,
+          0
+        ],
+        "scale": [
+          1.808,
+          1.996,
+          0.3
+        ]
+      },
+      {
+        "kind": "cylinder",
+        "position": [
+          3.9559,
+          3.5892,
+          -0.7708
+        ],
+        "rotation": [
+          -90,
+          11.5,
+          0
+        ],
+        "scale": [
+          0.5,
+          1.6,
+          0.5
+        ]
+      },
+      {
+        "kind": "cylinder",
+        "position": [
+          3.3606,
+          3.5892,
+          -2.2126
+        ],
+        "rotation": [
+          -90,
+          31.5,
+          0
+        ],
+        "scale": [
+          0.5,
+          1.6,
+          0.5
+        ]
+      },
+      {
+        "kind": "cylinder",
+        "position": [
+          2.279,
+          3.5892,
+          -3.278
+        ],
+        "rotation": [
+          -90,
+          55.5,
+          0
+        ],
+        "scale": [
+          0.5,
+          1.6,
+          0.5
+        ]
+      },
+      {
+        "kind": "cylinder",
+        "position": [
+          0.8087,
+          3.5892,
+          -3.9285
+        ],
+        "rotation": [
+          -90,
+          77,
+          0
+        ],
+        "scale": [
+          0.5,
+          1.6,
+          0.5
+        ]
+      },
+      {
+        "kind": "box",
+        "position": [
+          3.8655,
+          3.1763,
+          -0.8814
+        ],
+        "rotation": [
+          0,
+          -73.393,
+          0
+        ],
+        "scale": [
+          1.808,
+          0.396,
+          0.3
+        ]
+      },
+      {
+        "kind": "box",
+        "position": [
+          3.1892,
+          3.1813,
+          -2.2342
+        ],
+        "rotation": [
+          0,
+          -54.742,
+          0
+        ],
+        "scale": [
+          2.01,
+          0.403,
+          0.3
+        ]
+      },
+      {
+        "kind": "box",
+        "position": [
+          2.0542,
+          3.1693,
+          -3.3626
+        ],
+        "rotation": [
+          0,
+          152.492,
+          0
+        ],
+        "scale": [
+          1.939,
+          0.395,
+          0.3
+        ]
+      },
+      {
+        "kind": "box",
+        "position": [
+          0.8686,
+          3.1753,
+          -3.8514
+        ],
+        "rotation": [
+          0,
+          -10.088,
+          0
+        ],
+        "scale": [
+          1.76,
+          0.401,
+          0.3
+        ]
+      }
+    ],
+    "Walls/TopCables_Corner_Round_Inner": [
+      {
+        "kind": "box",
+        "position": [
+          0.787,
+          3.991,
+          -3.736
+        ],
+        "rotation": [
+          0,
+          168.389,
+          0
+        ],
+        "scale": [
+          1.713,
+          1.999,
+          0.3
+        ]
+      },
+      {
+        "kind": "box",
+        "position": [
+          2.1127,
+          3.998,
+          -3.2416
+        ],
+        "rotation": [
+          0,
+          -34.126,
+          0
+        ],
+        "scale": [
+          1.915,
+          1.993,
+          0.3
+        ]
+      },
+      {
+        "kind": "box",
+        "position": [
+          3.132,
+          3.99,
+          -2.188
+        ],
+        "rotation": [
+          0,
+          123.817,
+          0
+        ],
+        "scale": [
+          1.958,
+          1.993,
+          0.3
+        ]
+      },
+      {
+        "kind": "box",
+        "position": [
+          3.7533,
+          3.998,
+          -0.8711
+        ],
+        "rotation": [
+          0,
+          -78.171,
+          0
+        ],
+        "scale": [
+          1.872,
+          1.995,
+          0.3
+        ]
+      }
+    ],
+    "Walls/TopCables_Corner_Square_Outer": [
+      {
+        "kind": "box",
+        "position": [
+          4.4719,
+          4.0063,
+          -2.0331
+        ],
+        "rotation": [
+          -0.3939,
+          -90.0002,
+          0
+        ],
+        "scale": [
+          4.2,
+          2.0014,
+          0.7
+        ]
+      },
+      {
+        "kind": "box",
+        "position": [
+          3.9938,
+          3.4324,
+          -1.9374
+        ],
+        "rotation": [
+          -35.4223,
+          -90.0003,
+          0
+        ],
+        "scale": [
+          4,
+          0.715,
+          0.5
+        ]
+      },
+      {
+        "kind": "box",
+        "position": [
+          4.1251,
+          3.8634,
+          -2.0536
+        ],
+        "rotation": [
+          0,
+          -90,
+          0
+        ],
+        "scale": [
+          4.1,
+          0.1,
+          0.3
+        ]
+      },
+      {
+        "kind": "box",
+        "position": [
+          2.1132,
+          4.0059,
+          -4.4984
+        ],
+        "rotation": [
+          -0.3939,
+          -0.0002,
+          0
+        ],
+        "scale": [
+          4.2,
+          2.0014,
+          0.7
+        ]
+      },
+      {
+        "kind": "box",
+        "position": [
+          2.0507,
+          3.432,
+          -3.9789
+        ],
+        "rotation": [
+          -35.4223,
+          -0.0003,
+          0
+        ],
+        "scale": [
+          4.1,
+          0.715,
+          0.5
+        ]
+      },
+      {
+        "kind": "box",
+        "position": [
+          2.1056,
+          3.863,
+          -4.1596
+        ],
+        "rotation": [
+          0,
+          0,
+          0
+        ],
+        "scale": [
+          4.2,
+          0.1,
+          0.3
+        ]
+      }
+    ],
+    "Walls/WallWideBand_Corner_Square_Outer": [
+      {
+        "kind": "box",
+        "position": [
+          3.84,
+          1.5015,
+          -2
+        ],
+        "rotation": [
+          -0.5331,
+          -90,
+          0
+        ],
+        "scale": [
+          4,
+          2.9998,
+          0.5
+        ]
+      },
+      {
+        "kind": "box",
+        "position": [
+          2,
+          1.5015,
+          -3.84
+        ],
+        "rotation": [
+          -0.5331,
+          0,
+          0
+        ],
+        "scale": [
+          4,
+          2.9998,
+          0.5
+        ]
+      }
+    ],
+    "Walls/WallWideBand_Straight_TallBand": [
+      {
+        "kind": "box",
+        "position": [
+          2.2415,
+          1.5,
+          0
+        ],
+        "rotation": [
+          0,
+          0,
+          0
+        ],
+        "scale": [
+          0.5,
+          3,
+          4
+        ]
+      }
+    ],
+    "Walls/WallWideBand_Straight_Transition": [
+      {
+        "kind": "box",
+        "position": [
+          2.2415,
+          1.5,
+          0
+        ],
+        "rotation": [
+          0,
+          0,
+          0
+        ],
+        "scale": [
+          0.5,
+          3,
+          4
+        ]
+      }
+    ],
+    "Walls/WallWideBand_Straight_Transition2": [
+      {
+        "kind": "box",
+        "position": [
+          2.2415,
+          1.5,
+          0
+        ],
+        "rotation": [
+          0,
+          0,
+          0
+        ],
+        "scale": [
+          0.5,
+          3,
+          4
+        ]
+      }
+    ],
+    "Platforms/Door_Frame_A_Middle": [
+      {
+        "kind": "box",
+        "position": [
+          0,
+          -0.1882,
+          0
+        ],
+        "rotation": [
+          0,
+          0,
+          0
+        ],
+        "scale": [
+          2,
+          0.5,
+          0.6934
+        ]
+      },
+      {
+        "kind": "box",
+        "position": [
+          0,
+          4.4349,
+          0
+        ],
+        "rotation": [
+          0,
+          0,
+          0
+        ],
+        "scale": [
+          2,
+          1.22,
+          0.8
+        ]
+      }
+    ],
+    "Platforms/Door_Frame_Square_Middle": [
+      {
+        "kind": "box",
+        "position": [
+          0,
+          -0.1871,
+          0
+        ],
+        "rotation": [
+          0,
+          0,
+          0
+        ],
+        "scale": [
+          2,
+          0.5,
+          0.5
+        ]
+      },
+      {
+        "kind": "box",
+        "position": [
+          -0.0058,
+          4.2557,
+          0.004
+        ],
+        "rotation": [
+          0,
+          0,
+          0
+        ],
+        "scale": [
+          2,
+          1.52,
+          0.507
+        ]
+      }
+    ],
+    "Platforms/Door_Frame_SquareTall_Middle": [
+      {
+        "kind": "box",
+        "position": [
+          0,
+          -0.1923,
+          0
+        ],
+        "rotation": [
+          0,
+          0,
+          0
+        ],
+        "scale": [
+          2,
+          0.5,
+          0.5
+        ]
+      },
+      {
+        "kind": "box",
+        "position": [
+          0,
+          4.6682,
+          0
+        ],
+        "rotation": [
+          0,
+          0,
+          0
+        ],
+        "scale": [
+          2,
+          0.7,
+          0.507
+        ]
+      }
+    ],
+    "Platforms/Door_Frame_Square_Symmetric": [
+      {
+        "kind": "box",
+        "position": [
+          -1.9093,
+          2.493,
+          -0.019
+        ],
+        "rotation": [
+          0,
+          0,
+          0
+        ],
+        "scale": [
+          1.05,
+          5.013,
+          0.557
+        ]
+      },
+      {
+        "kind": "box",
+        "position": [
+          1.9,
+          2.493,
+          -0.001
+        ],
+        "rotation": [
+          0,
+          0,
+          0
+        ],
+        "scale": [
+          1.05,
+          5.013,
+          0.557
+        ]
+      },
+      {
+        "kind": "box",
+        "position": [
+          0.0068,
+          4.7358,
+          -0.0041
+        ],
+        "rotation": [
+          0,
+          0,
+          90
+        ],
+        "scale": [
+          0.55,
+          4.863,
+          0.557
+        ]
+      },
+      {
+        "kind": "box",
+        "position": [
+          -0.002,
+          0.1381,
+          0.0112
+        ],
+        "rotation": [
+          0,
+          0,
+          90
+        ],
+        "scale": [
+          0.3,
+          4.863,
+          0.557
+        ]
+      }
+    ],
+    "Platforms/Door_Frame_Square_Blocked": [
+      {
+        "kind": "box",
+        "position": [
+          0,
+          2.5,
+          0
+        ],
+        "rotation": [
+          0,
+          0,
+          0
+        ],
+        "scale": [
+          4.8534,
+          5,
+          0.5068
+        ]
+      }
+    ],
+    "Walls/ShortWall_AccentStrip_Straight": [
+      {
+        "kind": "box",
+        "position": [
+          2.1149,
+          0.501,
+          0
+        ],
+        "rotation": [
+          0,
+          0,
+          0
+        ],
+        "scale": [
+          0.25,
+          1,
+          4
+        ]
+      }
+    ],
+    "Props/Prop_Fan_Small": [
+      {
+        "kind": "box",
+        "position": [
+          0,
+          0.0915,
+          0
+        ],
+        "rotation": [
+          0,
+          0,
+          0
+        ],
+        "scale": [
+          1.677,
+          0.6,
+          1.677
+        ]
+      }
+    ]
+  }
+}

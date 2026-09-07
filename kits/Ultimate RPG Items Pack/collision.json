@@ -1,0 +1,50 @@
+{
+  "generator": "SciFiShip layout tool",
+  "schema": 1,
+  "savedAt": "2026-09-03T13:29:24.119Z",
+  "units": "metres",
+  "kit": "Ultimate RPG Items Pack",
+  "note": "Collision authored in module-local editor space. Keys are relative to this kit root.",
+  "moduleShapes": {
+    "Items/Coin": [
+      {
+        "kind": "box",
+        "position": [
+          0,
+          0,
+          0
+        ],
+        "rotation": [
+          0,
+          0,
+          0
+        ],
+        "scale": [
+          0.7367,
+          0.7377,
+          0.2
+        ]
+      }
+    ],
+    "Items/Coin_Star": [
+      {
+        "kind": "box",
+        "position": [
+          -0.0053,
+          0,
+          0.0001
+        ],
+        "rotation": [
+          0,
+          0,
+          0
+        ],
+        "scale": [
+          0.7367,
+          0.7377,
+          0.25
+        ]
+      }
+    ]
+  }
+}

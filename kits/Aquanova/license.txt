@@ -1,0 +1,43 @@
+Aquanova kit - mixed licensing
+================================
+
+This directory contains assets used by the Aquanova demo and editor. The
+repository's default license does not apply uniformly to every file here.
+
+
+Quaternius-derived wall modules
+-------------------------------
+
+The files under `Walls/` are modified pieces from the Modular SciFi MegaKit by
+Quaternius:
+
+    https://quaternius.com/packs/modularscifimegakit.html
+
+The source pack is released under CC0 1.0 Universal:
+
+    https://creativecommons.org/publicdomain/zero/1.0/
+
+Attribution is not required, but is appreciated:
+
+    Models by @Quaternius - https://www.patreon.com/quaternius
+
+
+Aquanova project data and utility meshes
+----------------------------------------
+
+`collision.json`, `Props/AreaBox.glb`, and `Props/Player.glb` are project-
+authored Aquanova data and utility geometry. They are distributed under the
+Apache License 2.0 found at the repository root.
+
+
+Restricted weapon models
+------------------------
+
+The item models under `Weapons/` were supplied for the Aquanova project. No
+separate standalone redistribution or reuse license has been documented for
+them. They are not CC0 and are not covered by the repository's Apache License
+2.0. Treat them as project-only assets and do not reuse them outside Aquanova
+without permission from their copyright holder.
+
+This is the same restriction documented for the corresponding first-person
+weapon models in Babylon-Lite's `lab/public/aquanova/ASSET-LICENSES.md`.

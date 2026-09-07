@@ -1,0 +1,77 @@
+Sci-Fi Essentials Kit — Quaternius
+==================================
+
+
+DO NOT USE THESE FILES IN YOUR OWN PROJECT
+------------------------------------------
+
+This folder exists **only** so that the Babylon.js samples and tools that were
+built against this kit have somewhere to load it from. It is not a distribution
+channel for the kit, and it is not the copy you should be building on.
+
+If you want these models, get them from the author:
+
+    https://quaternius.com/packs/scifiessentialskit.html
+
+That matters for two reasons, and the second one is the important one:
+
+  1. The author's copy is the complete pack — .blend sources, FBX, OBJ, the
+     Unity / Unreal / Godot projects with the custom shaders already wired up
+     (the animated screens, the flickering holograms and the customisable
+     planets are shader work that glTF cannot carry). Only the glTF variant is
+     here, because that is the only variant the samples read.
+
+  2. **Part of what is here is PRO-tier content.** The SOURCE version of the
+     pack is obtained through Quaternius' $10/month subscription, and it
+     contains models that the free download does not. Those models sit
+     alongside the free ones in this folder and are not marked apart. Copying
+     this folder wholesale into a personal project therefore takes paid content
+     that was paid for once, for this use.
+
+Support the author instead — a subscription is what keeps the kits coming:
+
+    https://www.patreon.com/quaternius
+    https://discord.gg/vJqnRUYRfT
+
+
+Licence
+-------
+
+The pack is released under **CC0 1.0 Universal (Public Domain Dedication)**:
+
+    https://creativecommons.org/publicdomain/zero/1.0/
+
+CC0 is what makes hosting the kit here legal, and it does not oblige you to ask
+permission or to attribute. The paragraph above is not a legal restriction on
+top of CC0 — it is a request. Attribution is likewise not required, but is
+deserved:
+
+    Models by @Quaternius — https://www.patreon.com/quaternius
+
+
+What is in this folder
+----------------------
+
+The glTF export of the pack — 64 models, one .gltf + .bin each, with the shared
+texture atlases at the kit root:
+
+    Enemies/    the animated robot enemies
+    Guns/       the weapons, plus their _Red colour variants
+    Props/      crates, desks, shelves, screens, holograms, planets, pickups
+    T_*.png     the shared texture atlases
+
+**The folders are ours, not the author's.** The pack ships flat, with the
+grouping carried in the filenames; the tools that read this library take their
+categories from the folder names, so the models were dispatched into the three
+groups the filenames were already naming. No file was renamed, so each model is
+still recognisable in the pack you download from the author.
+
+The models reference the atlases by **bare filename**, as if they sat beside
+the .gltf, so a loader has to know the convention: an image named at the kit
+root is resolved from the kit root, not from the model's own folder. glTF
+forbids a URI from leaving its directory, so `../T_Name.png` is not an option
+and the rule has to live in the loader.
+
+The kit is designed to sit alongside the **Modular SciFi MegaKit**, which is
+what the sample scenes use for the rooms these props stand in — and it shares
+that kit's `T_Trim_*` atlases, byte for byte.
