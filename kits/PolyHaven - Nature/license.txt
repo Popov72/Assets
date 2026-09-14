@@ -1,0 +1,21 @@
+Poly Haven - Nature
+===================
+
+The assets in this directory are derived from assets published by Poly Haven:
+
+    https://polyhaven.com/
+
+Poly Haven assets are released under the CC0 1.0 Universal public-domain
+dedication:
+
+    https://creativecommons.org/publicdomain/zero/1.0/
+
+The files in this directory are processed versions of the original assets and
+are not distributed in their original form:
+
+  - Textures were resized to 1024 x 1024 pixels.
+  - Textures were compressed in KTX2 format.
+  - High-poly geometry was decimated to better suit a real-time rendering
+    pipeline.
+
+Poly Haven did not produce or endorse these processed versions.

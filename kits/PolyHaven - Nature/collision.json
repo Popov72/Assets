@@ -1,0 +1,9 @@
+{
+  "generator": "Babylon Scene Editor",
+  "schema": 1,
+  "savedAt": "2026-09-09T22:16:06.502Z",
+  "units": "metres",
+  "kit": "PolyHaven - Nature",
+  "note": "Collision authored in module-local editor space. Keys are relative to this kit root.",
+  "moduleShapes": {}
+}
