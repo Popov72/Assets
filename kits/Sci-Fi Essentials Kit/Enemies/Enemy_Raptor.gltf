@@ -6995,17 +6995,17 @@
 		{
 			"mimeType":"image/png",
 			"name":"T_Enemies_Large_Normal",
-			"uri":"T_Enemies_Large_Normal.png"
+			"uri":"../Textures/T_Enemies_Large_Normal.png"
 		},
 		{
 			"mimeType":"image/png",
 			"name":"T_Enemies_Large_BaseColor",
-			"uri":"T_Enemies_Large_BaseColor.png"
+			"uri":"../Textures/T_Enemies_Large_BaseColor.png"
 		},
 		{
 			"mimeType":"image/png",
 			"name":"T_Enemies_Large_ORM",
-			"uri":"T_Enemies_Large_ORM.png"
+			"uri":"../Textures/T_Enemies_Large_ORM.png"
 		}
 	],
 	"skins":[

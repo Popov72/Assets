@@ -189,52 +189,52 @@
 		{
 			"mimeType":"image/png",
 			"name":"T_Trim_02_Normal",
-			"uri":"T_Trim_02_Normal.png"
+			"uri":"../Textures/T_Trim_02_Normal.png"
 		},
 		{
 			"mimeType":"image/png",
 			"name":"T_Trim_02_BaseColor_Red",
-			"uri":"T_Trim_02_BaseColor_Red.png"
+			"uri":"../Textures/T_Trim_02_BaseColor_Red.png"
 		},
 		{
 			"mimeType":"image/png",
 			"name":"T_Trim_02_ORM",
-			"uri":"T_Trim_02_ORM.png"
+			"uri":"../Textures/T_Trim_02_ORM.png"
 		},
 		{
 			"mimeType":"image/png",
 			"name":"T_Trim_01_Normal",
-			"uri":"T_Trim_01_Normal.png"
+			"uri":"../Textures/T_Trim_01_Normal.png"
 		},
 		{
 			"mimeType":"image/png",
 			"name":"T_Trim_01_BaseColor_Red",
-			"uri":"T_Trim_01_BaseColor_Red.png"
+			"uri":"../Textures/T_Trim_01_BaseColor_Red.png"
 		},
 		{
 			"mimeType":"image/png",
 			"name":"T_Trim_01_ORM",
-			"uri":"T_Trim_01_ORM.png"
+			"uri":"../Textures/T_Trim_01_ORM.png"
 		},
 		{
 			"mimeType":"image/png",
 			"name":"T_Trim_03_Normal",
-			"uri":"T_Trim_03_Normal.png"
+			"uri":"../Textures/T_Trim_03_Normal.png"
 		},
 		{
 			"mimeType":"image/png",
 			"name":"T_Trim_03_Cables",
-			"uri":"T_Trim_03_Cables.png"
+			"uri":"../Textures/T_Trim_03_Cables.png"
 		},
 		{
 			"mimeType":"image/png",
 			"name":"T_Trim_03_ORM",
-			"uri":"T_Trim_03_ORM.png"
+			"uri":"../Textures/T_Trim_03_ORM.png"
 		},
 		{
 			"mimeType":"image/png",
 			"name":"T_Trim_03_BaseColor",
-			"uri":"T_Trim_03_BaseColor.png"
+			"uri":"../Textures/T_Trim_03_BaseColor.png"
 		}
 	],
 	"accessors":[

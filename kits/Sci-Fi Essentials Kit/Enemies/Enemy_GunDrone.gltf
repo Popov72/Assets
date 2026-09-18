@@ -1098,17 +1098,17 @@
 		{
 			"mimeType":"image/png",
 			"name":"T_Enemies_Normal",
-			"uri":"T_Enemies_Normal.png"
+			"uri":"../Textures/T_Enemies_Normal.png"
 		},
 		{
 			"mimeType":"image/png",
 			"name":"T_Enemies_BaseColor.png",
-			"uri":"T_Enemies_BaseColor_png.png"
+			"uri":"../Textures/T_Enemies_BaseColor_png.png"
 		},
 		{
 			"mimeType":"image/png",
 			"name":"T_Enemies_ORM",
-			"uri":"T_Enemies_ORM.png"
+			"uri":"../Textures/T_Enemies_ORM.png"
 		}
 	],
 	"skins":[

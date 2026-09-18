@@ -69,17 +69,17 @@
 		{
 			"mimeType":"image/png",
 			"name":"T_Guns_Batch1_Normal",
-			"uri":"T_Guns_Batch1_Normal.png"
+			"uri":"../Textures/T_Guns_Batch1_Normal.png"
 		},
 		{
 			"mimeType":"image/png",
 			"name":"T_Guns_Batch1_BaseColor",
-			"uri":"T_Guns_Batch1_BaseColor.png"
+			"uri":"../Textures/T_Guns_Batch1_BaseColor.png"
 		},
 		{
 			"mimeType":"image/png",
 			"name":"T_Guns_Batch1_ORM",
-			"uri":"T_Guns_Batch1_ORM.png"
+			"uri":"../Textures/T_Guns_Batch1_ORM.png"
 		}
 	],
 	"accessors":[

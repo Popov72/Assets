@@ -69,17 +69,17 @@
 		{
 			"mimeType":"image/png",
 			"name":"T_Trim_02_Normal",
-			"uri":"T_Trim_02_Normal.png"
+			"uri":"../Textures/T_Trim_02_Normal.png"
 		},
 		{
 			"mimeType":"image/png",
 			"name":"T_Trim_02_BaseColor_Red",
-			"uri":"T_Trim_02_BaseColor_Red.png"
+			"uri":"../Textures/T_Trim_02_BaseColor_Red.png"
 		},
 		{
 			"mimeType":"image/png",
 			"name":"T_Trim_02_ORM",
-			"uri":"T_Trim_02_ORM.png"
+			"uri":"../Textures/T_Trim_02_ORM.png"
 		}
 	],
 	"accessors":[

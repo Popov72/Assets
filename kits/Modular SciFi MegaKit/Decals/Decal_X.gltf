@@ -58,7 +58,7 @@
 		{
 			"mimeType":"image/png",
 			"name":"T_Decals",
-			"uri":"T_Decals.png"
+			"uri":"../Textures/T_Decals.png"
 		}
 	],
 	"accessors":[

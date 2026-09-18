@@ -129,27 +129,27 @@
 		{
 			"mimeType":"image/png",
 			"name":"T_Trim_03_Normal",
-			"uri":"T_Trim_03_Normal.png"
+			"uri":"../Textures/T_Trim_03_Normal.png"
 		},
 		{
 			"mimeType":"image/png",
 			"name":"T_Trim_03_BaseColor",
-			"uri":"T_Trim_03_BaseColor.png"
+			"uri":"../Textures/T_Trim_03_BaseColor.png"
 		},
 		{
 			"mimeType":"image/png",
 			"name":"T_Trim_03_ORM",
-			"uri":"T_Trim_03_ORM.png"
+			"uri":"../Textures/T_Trim_03_ORM.png"
 		},
 		{
 			"mimeType":"image/png",
 			"name":"T_Decals",
-			"uri":"T_Decals.png"
+			"uri":"../Textures/T_Decals.png"
 		},
 		{
 			"mimeType":"image/png",
 			"name":"T_Trim_03_Cables",
-			"uri":"T_Trim_03_Cables.png"
+			"uri":"../Textures/T_Trim_03_Cables.png"
 		}
 	],
 	"accessors":[

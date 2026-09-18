@@ -57,7 +57,7 @@
 		{
 			"mimeType":"image/png",
 			"name":"T_Rings",
-			"uri":"T_Rings.png"
+			"uri":"../Textures/T_Rings.png"
 		}
 	],
 	"accessors":[

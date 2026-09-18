@@ -141,37 +141,37 @@
 		{
 			"mimeType":"image/png",
 			"name":"T_Trim_01_Normal",
-			"uri":"T_Trim_01_Normal.png"
+			"uri":"../Textures/T_Trim_01_Normal.png"
 		},
 		{
 			"mimeType":"image/png",
 			"name":"T_Trim_01_BaseColor_Red",
-			"uri":"T_Trim_01_BaseColor_Red.png"
+			"uri":"../Textures/T_Trim_01_BaseColor_Red.png"
 		},
 		{
 			"mimeType":"image/png",
 			"name":"T_Trim_01_ORM",
-			"uri":"T_Trim_01_ORM.png"
+			"uri":"../Textures/T_Trim_01_ORM.png"
 		},
 		{
 			"mimeType":"image/png",
 			"name":"T_Trim_02_Normal",
-			"uri":"T_Trim_02_Normal.png"
+			"uri":"../Textures/T_Trim_02_Normal.png"
 		},
 		{
 			"mimeType":"image/png",
 			"name":"T_Trim_02_BaseColor_Red",
-			"uri":"T_Trim_02_BaseColor_Red.png"
+			"uri":"../Textures/T_Trim_02_BaseColor_Red.png"
 		},
 		{
 			"mimeType":"image/png",
 			"name":"T_Trim_02_ORM",
-			"uri":"T_Trim_02_ORM.png"
+			"uri":"../Textures/T_Trim_02_ORM.png"
 		},
 		{
 			"mimeType":"image/png",
 			"name":"T_Decals",
-			"uri":"T_Decals.png"
+			"uri":"../Textures/T_Decals.png"
 		}
 	],
 	"accessors":[

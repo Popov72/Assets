@@ -93,17 +93,17 @@
 		{
 			"mimeType":"image/png",
 			"name":"T_Guns_Batch2_Red_Normal",
-			"uri":"T_Guns_Batch2_Red_Normal.png"
+			"uri":"../Textures/T_Guns_Batch2_Red_Normal.png"
 		},
 		{
 			"mimeType":"image/png",
 			"name":"T_Guns_Batch2_Red_BaseColor",
-			"uri":"T_Guns_Batch2_Red_BaseColor.png"
+			"uri":"../Textures/T_Guns_Batch2_Red_BaseColor.png"
 		},
 		{
 			"mimeType":"image/png",
 			"name":"T_Guns_Batch2_Red_ORM",
-			"uri":"T_Guns_Batch2_Red_ORM.png"
+			"uri":"../Textures/T_Guns_Batch2_Red_ORM.png"
 		}
 	],
 	"accessors":[
