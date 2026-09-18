@@ -281,57 +281,57 @@
     {
       "mimeType": "image/png",
       "name": "T_Trim_03_Normal",
-      "uri": "../../Modular SciFi MegaKit/T_Trim_03_Normal.png"
+      "uri": "../../Modular SciFi MegaKit/Textures/T_Trim_03_Normal.png"
     },
     {
       "mimeType": "image/png",
       "name": "T_Trim_03_BaseColor",
-      "uri": "../../Modular SciFi MegaKit/T_Trim_03_BaseColor.png"
+      "uri": "../../Modular SciFi MegaKit/Textures/T_Trim_03_BaseColor.png"
     },
     {
       "mimeType": "image/png",
       "name": "T_Trim_03_ORM",
-      "uri": "../../Modular SciFi MegaKit/T_Trim_03_ORM.png"
+      "uri": "../../Modular SciFi MegaKit/Textures/T_Trim_03_ORM.png"
     },
     {
       "mimeType": "image/png",
       "name": "T_Trim_02_Normal",
-      "uri": "../../Modular SciFi MegaKit/T_Trim_02_Normal.png"
+      "uri": "../../Modular SciFi MegaKit/Textures/T_Trim_02_Normal.png"
     },
     {
       "mimeType": "image/png",
       "name": "T_Trim_02_BaseColor_Red",
-      "uri": "../../Modular SciFi MegaKit/T_Trim_02_BaseColor_Red.png"
+      "uri": "../../Modular SciFi MegaKit/Textures/T_Trim_02_BaseColor_Red.png"
     },
     {
       "mimeType": "image/png",
       "name": "T_Trim_02_ORM",
-      "uri": "../../Modular SciFi MegaKit/T_Trim_02_ORM.png"
+      "uri": "../../Modular SciFi MegaKit/Textures/T_Trim_02_ORM.png"
     },
     {
       "mimeType": "image/png",
       "name": "T_Trim_01_Normal",
-      "uri": "../../Modular SciFi MegaKit/T_Trim_01_Normal.png"
+      "uri": "../../Modular SciFi MegaKit/Textures/T_Trim_01_Normal.png"
     },
     {
       "mimeType": "image/png",
       "name": "T_Trim_01_BaseColor_Red",
-      "uri": "../../Modular SciFi MegaKit/T_Trim_01_BaseColor_Red.png"
+      "uri": "../../Modular SciFi MegaKit/Textures/T_Trim_01_BaseColor_Red.png"
     },
     {
       "mimeType": "image/png",
       "name": "T_Trim_01_ORM",
-      "uri": "../../Modular SciFi MegaKit/T_Trim_01_ORM.png"
+      "uri": "../../Modular SciFi MegaKit/Textures/T_Trim_01_ORM.png"
     },
     {
       "mimeType": "image/png",
       "name": "T_Decals",
-      "uri": "../../Modular SciFi MegaKit/T_Decals.png"
+      "uri": "../../Modular SciFi MegaKit/Textures/T_Decals.png"
     },
     {
       "mimeType": "image/png",
       "name": "T_Trim_03_Cables",
-      "uri": "../../Modular SciFi MegaKit/T_Trim_03_Cables.png"
+      "uri": "../../Modular SciFi MegaKit/Textures/T_Trim_03_Cables.png"
     }
   ],
   "accessors": [
